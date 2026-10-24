@@ -14,6 +14,37 @@ I'm an engineering student interested in technology, problem-solving, artificial
 
 My portfolio brings together my technical journey and my interest in Formula 1 through a clean, racing-inspired design.
 
+## 📸 Portfolio Screenshots
+
+### 🏎️ Home
+
+![Portfolio Home](screenshots/home.png)
+
+### 👩‍💻 About Me
+
+![About Me](screenshots/About.png)
+
+### ⚙️ Technical Skills
+
+![Technical Skills](screenshots/skills.png)
+
+### 🚀 Projects
+
+![Projects](screenshots/Projects.png)
+
+### 🤖 AI Agents
+
+![AI Agents](screenshots/ai-agents.png)
+
+### 🏆 Certifications
+
+![Certifications](screenshots/Certifications.png)
+
+### 📬 Contact & Footer
+
+![Contact and Footer](screenshots/contact-footer.png)
+
+
 ## 🛠️ Technologies
 
 * **Web Development:** HTML5, CSS3
